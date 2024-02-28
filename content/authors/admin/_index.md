@@ -3,7 +3,7 @@
 title: Elena M. Meyer
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Elena Marie
@@ -63,7 +63,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Botanizing 
+  - name: Hobbies 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -75,12 +75,12 @@ skills:
       - name: Cooking
         description: ''
         percent: 100
-        icon: cat
+        icon: heart
         icon_pack: fas
       - name: Gardening 
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: sun
         icon_pack: fas
 
 # Social/Academic Networking
@@ -93,19 +93,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/elena4botany
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar 
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=vDBd5K0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: inaturalist
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.inaturalist.org/people/elenacicada
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,5 +117,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Elena M. Meyer is a PhD Candidate at Virginia Commonwealth University, working in Andrew Eckert's plant evolutionary genetics labratory. Their research interests include the evolution of self-fertilization in plants, the impact of historal climates on present-day species distributions, phylogenetic comparative methods, and science policy and communication. They also teach undergraduate biology labs, where they enjoy finding new ways to improve student learning in science writing and practial labratory skills. 
 {style="text-align: justify;"}
