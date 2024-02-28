@@ -62,27 +62,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Teaching Assistant/Lab Instructor 
+          company: Virginia Commonwealth University 
+          company_url: 'https://www.vcu.edu'
+          location: Richmond, VA
+          date_start: '2021-08-15'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Teaching introductory biology labs 
+              * Mannaging sections of 24 students as primary point of contact 
+              * Instruction in scientific writing and presentations 
+        - title: Graduate Researcher 
+          company: Virginia Commonwealth University 
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Richmond, VA
+          date_start: '2019-08-01'
+          date_end: ''
+          description: Conducted research as part of the Eckert Lab, which focuses on plant evolutionary genetics. 
     design:
       columns: '2'
   - block: accomplishments
@@ -101,12 +100,9 @@ sections:
         - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
+          description: 'As a fellow with the Commonwealth of Virginia Engineering and Science (COVES) Fellow, I was placed with the Virginia Department of   Environmental Quality. In this role, I provided my scientific knowledge working in science policy with VaDEQ.As a fellow with the Commonwealth of Virginia Engineering and Science (COVES) Fellow, I was placed with the Virginia Department of Environmental Quality. In this role, I provided my scientific knowledge working in science policy with VaDEQ.'
+          title: 2022 COVES Fellow
+          url: 'https://www.vasem.org/covesfellowship/'
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
