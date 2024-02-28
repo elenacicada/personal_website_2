@@ -3,7 +3,7 @@
 title: Elena M. Meyer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Elena Marie
@@ -36,37 +36,34 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Integrative Life Sciences 
+      institution: Virginia Commonwealth University 
+      year: Expected: 2025
+    - course: B.A in Biology 
+      institution: New College of Florida 
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: R and R Studio 
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Data Science and Visualization 
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Population Genetics 
         description: ''
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Botanizing 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -75,12 +72,12 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Cooking
         description: ''
         percent: 100
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Gardening 
         description: ''
         percent: 80
         icon: camera-retro
