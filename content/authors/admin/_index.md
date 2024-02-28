@@ -100,9 +100,6 @@ social:
   - icon: google-scholar 
     icon_pack: ai
     link: https://scholar.google.com/citations?user=vDBd5K0AAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: inaturalist
     icon_pack: fab
     link: https://www.inaturalist.org/people/elenacicada
