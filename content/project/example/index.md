@@ -1,9 +1,13 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Dissertation: Angiosperm Mating Systems 
+summary:My dissertation focuses on the evolution of plant reproductive systems, espcially focusing on self-fertilizing and mixed-mating systems, and the implications of anthropogenic climate change on angiosperm diversity patterns. 
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Evolution
+  - Selfing
+  - Climate change
+  - Angiosperms
+  - Plant biologu
+date: '2024-07-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
