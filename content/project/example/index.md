@@ -6,7 +6,7 @@ tags:
   - Selfing
   - Climate change
   - Angiosperms
-  - Plant biologu
+  - Plant biology
 date: '2024-07-06T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
