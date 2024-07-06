@@ -1,6 +1,6 @@
 ---
 title: Dissertation: Angiosperm Mating Systems 
-summary:My dissertation focuses on the evolution of plant reproductive systems, espcially focusing on self-fertilizing and mixed-mating systems, and the implications of anthropogenic climate change on angiosperm diversity patterns. 
+summary: My dissertation focuses on the evolution of plant reproductive systems, espcially focusing on self-fertilizing and mixed-mating systems, and the implications of anthropogenic climate change on angiosperm diversity patterns. 
 tags:
   - Evolution
   - Selfing
