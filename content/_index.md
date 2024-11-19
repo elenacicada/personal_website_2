@@ -187,33 +187,5 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-       I'd love to hear from you! Feel free to reach out to me via email or social media. 
-      # Contact (add or remove contact options as necessary)
-      email: meyere3@vcu.edu
-      twitter: @elena4botany
-      address:
-        street: 1000 W. Cary St. 
-        city: Richmond
-        region: VA
-        postcode: '23223'
-        country: United States
-        country_code: US
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
----
+
+      
