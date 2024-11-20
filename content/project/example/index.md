@@ -17,7 +17,7 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
+  - icon: envelope
     icon_pack: fab
     name: Follow
     url: https://www.researchgate.net/profile/Elena-Meyer-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
