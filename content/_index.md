@@ -81,7 +81,16 @@ sections:
           location: Richmond, VA
           date_start: '2019-08-01'
           date_end: ''
-          description: Conducted research as part of the Eckert Lab, which focuses on plant evolutionary genetics. 
+          description: Conducted research as part of the Eckert Lab, which focuses on plant evolutionary genetics.
+
+     - title: Science Policy Fellow
+          company: Virginia Department of Environmental Quality 
+          company_url: ''
+          company_logo: org-x
+          location: Richmond, VA
+          date_start: '2022-07'
+          date_end: '2022-09'
+          description: As a science policy fellow in the Commonwealth of Virginia Engineering and Science Fellowship (COVES) program, I was trained in science policy and placed with the Virginia Department of Environmental Quality (DEQ). At DEQ, I prepared briefing and mannaged research needs for a regulatory advisory panel of stakeholders. 
     design:
       columns: '2'
  
