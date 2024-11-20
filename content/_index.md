@@ -38,38 +38,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: experience
-    content:
-      title: Key Experiences
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: Graduate Teaching Assistant
-          company: Department of Biology, Virginia Commonwealth University
-          company_url: 'https://biology.vcu.edu'
-          location: Richmond, VA
-          date_start: '2019-09'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-              * I independently lead laboratory sections and introduce students of diverse backgrounds to key biological concepts.
-              * My course introduces primarily freshman students to scientific writing and communication in an academic context. 
-              * I independently lead laboratory sections and teach students of diverse backgrounds key biological concepts.
-        - title: Graduate Student and Research Assistant 
-          company: The Eckert Lab @ Virginia Commonwealth University
-          company_url: 'https://www.eckertlab.com'
-          location: Richmond, VA
-          date_start: '2019-08'
-          date_end: ''
-          description: Worked as a member of Andrew Eckert's plant evolutionary genetics lab and conducted independent research on plant reproductive biology, as well as participating in broader lab projects such as mentorship of undergraduates and master's students.
-    design:
-      columns: '2'
+ 
   - block: portfolio
     id: projects
     content:
