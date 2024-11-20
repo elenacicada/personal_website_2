@@ -13,14 +13,14 @@ date: '2024-07-06T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Illustration by Walter Hood Fitch, Public Domain, https://commons.wikimedia.org/w/index.php?curid=6411605
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/elena4botany
+    url: https://www.researchgate.net/profile/Elena-Meyer-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19
 url_code: ''
 url_pdf: ''
 url_slides: ''
