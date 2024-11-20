@@ -58,8 +58,7 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * I independently lead laboratory sections and introduce students of diverse backgrounds to
-key biological concepts.
+              * I independently lead laboratory sections and introduce students of diverse backgrounds to key biological concepts.
               * My course introduces primarily freshman students to scientific writing and communication in an academic context. 
               * I independently lead laboratory sections and teach students of diverse backgrounds key biological concepts.
         - title: Graduate Student and Research Assistant 
