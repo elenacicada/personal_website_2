@@ -32,13 +32,20 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-    
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: experience
     content:
       title: Experience
@@ -51,34 +58,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Teaching Assistant/Lab Instructor 
-          company: Virginia Commonwealth University 
-          company_url: 'https://www.vcu.edu'
-          location: Richmond, VA
-          date_start: '2021-08-15'
+        - title: CEO
+          company: GenCoin
+          company_url: ''
+          company_logo: org-gc
+          location: California
+          date_start: '2021-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Teaching introductory biology labs 
-              * Mannaging sections of 24 students as primary point of contact 
-              * Instruction in scientific writing and presentations 
-        - title: Graduate Researcher 
-          company: Virginia Commonwealth University 
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: Professor of Semiconductor Physics
+          company: University X
           company_url: ''
           company_logo: org-x
-          location: Richmond, VA
-          date_start: '2019-08-01'
-          date_end: ''
-          description: Conducted research as part of the Eckert Lab, which focuses on plant evolutionary genetics.
-
-     - title: Science Policy Fellow
-          company: Virginia Department of Environmental Quality 
-          company_url: ''
-          location: Richmond, VA
-          date_start: '2022-07'
-          date_end: '2022-09'
-          description: As a science policy fellow in the Commonwealth of Virginia Engineering and Science Fellowship (COVES) program, I was trained in science policy and placed with the Virginia Department of Environmental Quality (DEQ). At DEQ, I prepared briefing and mannaged research needs for a regulatory advisory panel of stakeholders. 
+          location: California
+          date_start: '2016-01-01'
+          date_end: '2020-12-31'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: portfolio
