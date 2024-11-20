@@ -68,13 +68,6 @@ sections:
           date_start: '2019-08'
           date_end: ''
           description: Worked as a member of Andrew Eckert's plant evolutionary genetics lab and conducted independent research on plant reproductive biology, as well as participating in broader lab projects such as mentorship of undergraduates and master's students.
-        - title: Science Policy Fellow 
-              company: Virginia Department of Environmental Quality 
-              company_url: 'https://vasem.org/strengthening-policymaking/'
-              location: Richmond, VA
-              date_start: '2022-06'
-              date_end: '2022-09'
-              description: As a Commonwealth of Virginia Engineering and Science (COVES) Policy Fellow, I was awarded a placement with the Virginia Department of Environmental Quality, where I served as a science policy advisor. 
     design:
       columns: '2'
   - block: portfolio
