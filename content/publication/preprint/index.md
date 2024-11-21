@@ -26,11 +26,20 @@ tags:
 - Source Themes
 featured: false
 
-links:
-url: 'https://www.biorxiv.org/content/10.1101/2024.06.18.599380v2.abstract'
-url_pdf: 'https://www.biorxiv.org/content/10.1101/2024.06.18.599380v2.full.pdf+html'
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# Display this page in the Featured widget?
+featured: true
 
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
