@@ -36,14 +36,14 @@ featured: false
 
 # links:
 # - name: ""
-#   url: "https://academic.oup.com/aobpla/article/13/6/plab067/6407613"
+#   url: https://academic.oup.com/aobpla/article/13/6/plab067/6407613
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
