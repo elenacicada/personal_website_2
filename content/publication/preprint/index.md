@@ -28,8 +28,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: [http://example.org](https://www.biorxiv.org/content/10.1101/2024.06.18.599380v2.abstract)
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.biorxiv.org/content/10.1101/2024.06.18.599380v2.full.pdf+html)
+url: https://www.biorxiv.org/content/10.1101/2024.06.18.599380v2.abstract
+url_pdf: https://www.biorxiv.org/content/10.1101/2024.06.18.599380v2.full.pdf+html
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 
 
