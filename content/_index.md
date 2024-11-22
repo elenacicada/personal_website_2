@@ -97,7 +97,9 @@ sections:
     design:
       columns: '2'
       view: card
-    design:
+      design:
+      view: article-grid
+      columns: 2
       # Choose a layout view
       view: date-title-summary
       # Reduce spacing
