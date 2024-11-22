@@ -19,7 +19,7 @@ image:
 links:
   - icon: envelope
     icon_pack: fab
-    name: Follow
+    name: Follow my projects on ResearchGate 
     url: https://www.researchgate.net/profile/Elena-Meyer-2/research
 url_code: ''
 url_pdf: ''
