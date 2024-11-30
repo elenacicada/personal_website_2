@@ -50,7 +50,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:meyere3@vcu.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/elena4botany
@@ -60,9 +60,6 @@ social:
   - icon: google-scholar 
     icon_pack: ai
     link: https://scholar.google.com/citations?user=vDBd5K0AAAAJ&hl=en](https://scholar.google.com/citations?user=jLbaDH4AAAAJ&hl=en
-  - icon: inaturalist
-    icon_pack: fab
-    link: https://www.inaturalist.org/people/elenacicada
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
