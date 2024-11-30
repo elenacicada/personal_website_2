@@ -59,7 +59,7 @@ social:
       header: true
   - icon: google-scholar 
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=vDBd5K0AAAAJ&hl=en](https://scholar.google.com/citations?user=jLbaDH4AAAAJ&hl=en
+    link: https://scholar.google.com/citations?hl=en&user=jLbaDH4AAAAJ&view_op=list_works&authuser=1&gmla=AL3_ziiSUY1H2smYEOn-AHmLroKC0ZihCJ2UNrpgcJnouuNKrIGBvr1fPiOcESsux0r1utt8m6cL0xK3ywBY7Apq
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
