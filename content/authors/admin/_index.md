@@ -59,7 +59,7 @@ social:
       header: true
   - icon: google-scholar 
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=vDBd5K0AAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=vDBd5K0AAAAJ&hl=en](https://scholar.google.com/citations?user=jLbaDH4AAAAJ&hl=en
   - icon: inaturalist
     icon_pack: fab
     link: https://www.inaturalist.org/people/elenacicada
